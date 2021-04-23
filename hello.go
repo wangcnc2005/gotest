@@ -1,4 +1,4 @@
-package github.com/wangcnc2005/gotest
+package gotest
 
 import (
   "fmt"
